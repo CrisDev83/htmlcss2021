@@ -1,0 +1,59 @@
+REFERENCIAS BIBLIOGRÁFICAS
+
+
+#1 Material de apoio do curso
+#2 Referência MDN
+#3 W3C Standards
+#4 WHATWG Living Standard
+#5  W3Schools
+#6 HTML5 Entendendo e Executando - Mark Pilgrim
+#7 CSS O guia definitivo - Reci Meyer
+#8 Flexbox in CSS - Estelle Weyl
+#9 Grid Layout in CSS - Eric Meyer
+#10 HTML5 e CSS3: guia prático e visual - Elizabeth Castro e  Bruce 	 Hyslop 
+#11 HTML & CSS - Jon Duckett
+#12 Use a cabeça HTML e CSS - Eric Freeman e Elisabeth Robson 
+#13 Crie seu próprio site - Nate Cooper
+#14 HTML5: a Linguagem de Marcação que Revolucionou a Web - Maurício Samy Silva 
+#15 Fundamentos de HTML5 e CSS3 - Maurício Samy Silva 
+#16 CSS3: Desenvolva Aplicações web Profissionais com uso dos Poderosos Recursos de Estilização das CSS3 - Maurício Samy Silva 
+#17 CSS Grid Layout: Criando Layouts CSS Profissionais - Maurício Samy Silva 
+#18 Curso de Design gráfico -David Dabner e outros
+#19 O essencial do design gráfico - Bob e Maggie Gordon
+#20 A psicologia das cores - Eva Heller
+#21 Pensar com Tipos - llen Lupton
+#22 Flexbox explained - Jorge Montoya e Stephen Burge
+#23 CSS grid explained - Jorge Montoya e Stephen Burge
+#24 Smanshing HTML5 -  Bill Sanders
+#25 Smashing  CSS - Eric Meyer
+
+
+*****Ferramentas Cores*****
+
+Color Adobe
+https://color.adobe.com/pt/
+
+
+Colors
+https://coolors.co/ebd4cb-da9f93-b6465f-890620-2c0703
+
+Paletton
+https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
+
+Extensão do Crhome ColorZilla
+https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
+
+
+
+*****Ferramenta de fonts******
+
+Googel Fonts
+https://fonts.google.com/
+
+Font Ninja - Extensão Chrome
+https://www.fonts.ninja/
+
+Identificar fontes em uma imagem
+https://www.whatfontis.com/
+
+
